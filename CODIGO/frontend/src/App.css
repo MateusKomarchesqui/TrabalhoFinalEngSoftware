@@ -1,0 +1,29 @@
+nav {
+  border-right: 1px solid #ddd;
+  height: 100vh;
+}
+
+nav ul {
+  padding: 0;
+}
+
+nav li {
+  margin-bottom: 10px;
+}
+
+nav a {
+  text-decoration: none;
+  color: #333;
+  font-weight: bold;
+}
+
+nav a:hover {
+  color: #007bff;
+}
+
+main {
+  padding: 20px;
+  background: #fff;
+  height: 100vh;
+  overflow-y: auto;
+}
